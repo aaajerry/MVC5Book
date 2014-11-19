@@ -18,6 +18,7 @@ namespace EF01_DatabaseFirst_EF5
                                 a = item.CategoryName,
                                 b = item.ProductName,
                                 c = item.QuantityPerUnit
+
                             };
 
                 foreach (var item in query)
